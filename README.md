@@ -1,6 +1,6 @@
 # UnifiedTreeExperimentL
 
-A Java implementation of the **EDBT (Empirical Depth-Bounded Theory)** framework — an accuracy-aware extension for benchmarking and comparing tree and graph search algorithm efficiency. The framework empirically validates theoretical complexity bounds across 10 classical search algorithms using randomised grid environments.
+A Java implementation of the **EDBT (Extended Dynamic Behavioural Tree)** framework — an accuracy-aware extension for benchmarking and comparing tree and graph search algorithm efficiency. The framework empirically validates theoretical complexity bounds across 10 classical search algorithms using randomised grid environments.
 
 > **Author:** Shafakhatullah Khan Mohammed  
 > **Version:** 1.0 | **Since:** 2025-10-18
